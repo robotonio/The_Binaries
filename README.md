@@ -23,18 +23,18 @@ During the operation of the system, the following useful messages are displayed 
 • In the closing procedure of the Soft Actuator, "SOFT CLOSE" appears on the first line of the LCD and the current Soft Actuator is pressed in the second.
 • "SOFT OPEN" appears during the Soft Actuator opening process.
 
-#Android APP
+# Android APP
 
 The Android application "THE BINARIES" has been developed for the needs of the system, which displays various measurements performed by the system and remote control of the opening and / or closing of the actuators.
 The main features of the application are described below:
 
 ![alt text](https://github.com/robotonio/The_Binaries/blob/master/android_app_description.png)
 
-#Microcontroller
+# Microcontroller
 
 The system controlled by the ESP32 microprocessor, witch has built in Bluetooth and WiFi capabilities, that make this electronic board not only autonomous to support automation but also compared to other platforms (such as those in the Arduino range), much more efficient and complete.
 
-#Circuit
+# Circuit
 
 The following figure shows the system connection:
 
