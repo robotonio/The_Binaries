@@ -36,6 +36,10 @@ The system controlled by the ESP32 microprocessor, witch has built in Bluetooth 
 
 #Circuit
 
+The following figure shows the system connection:
+
+![alt text](https://github.com/robotonio/The_Binaries/blob/master/circuit.png)
+
 
 
 
