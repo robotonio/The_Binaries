@@ -9,4 +9,5 @@ The main purpose of the system is to show some of the advantages of Soft Robotic
 The Android application "THE BINARIES" has been developed for the needs of the system, which displays various measurements performed by the system and remote control of the opening and / or closing of the actuators.
 The main features of the application are described below:
 
-https://github.com/robotonio/The_Binaries/blob/master/android_app_description.png
+![alt text](https://github.com/robotonio/The_Binaries/blob/master/android_app_description.png)
+
