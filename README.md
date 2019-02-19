@@ -40,6 +40,16 @@ The following figure shows the system connection:
 
 ![alt text](https://github.com/robotonio/The_Binaries/blob/master/circuit.png)
 
+# Sources
 
+For the design and development of the system were used opensource sources that helped at each stage. Some of them:
+1. The inspiration for the project was largely the Soft Robotics Toolkit, developed in a research conducted at Harvard University and Dublin Trinity College, which focused on the development of training kits for practical design lessons. The basic actuator control unit was based on the project "Low cost Electro-pneumatic circuit for Soft Robots", where we implemented the air supply and exhaust system in the Soft Actuator.
+2. The soft actuators were built according to the instructions of the project "Air-Powered Soft Robotic Gripper" from the Instructables website.
+3. For the development of the Android application-to-application code for the application (system and application side), it helped the project "ESP32 BLE + Android + Arduino IDE = AWESOME" from the Instructables website.
+4. In developing the core part of the ESP32 program, he helped a lot with Adel Kassah's TUNIOT FOR ESP32 visual programming tool, based on Google's Blockly
 
-
+Soft Robotics Toolkit: https://softroboticstoolkit.com/home
+"Low cost Electro-pneumatic circuit for Soft Robots": https://softroboticstoolkit.com/low-cost-ep-circuit
+"Air-Powered Soft Robotic Gripper": https://www.instructables.com/id/Air-Powered-Soft-Robotic-Gripper/
+"ESP32 BLE + Android + Arduino IDE = AWESOME": https://www.instructables.com/id/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/
+TUNIOT FOR ESP32: http://easycoding.tn/esp32/demos/code/
